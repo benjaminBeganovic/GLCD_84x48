@@ -1,0 +1,12 @@
+GLCD84x48	KEYWORD1
+validPosition	KEYWORD2
+setPositionXY	KEYWORD2
+clearLcd	KEYWORD2
+lcdInitialise	KEYWORD2
+printCharAtXY	KEYWORD2
+fRect	KEYWORD2
+setPixel	KEYWORD2
+eRect	KEYWORD2
+circle	KEYWORD2
+circle2	KEYWORD2
+line	KEYWORD2
